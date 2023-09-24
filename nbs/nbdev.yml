@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "r-borgess_pacote"
+  site-url: "https://r-borgess.github.io/tutorial_nbdev"
+  description: "pacote feito no tutorial da python nordeste 2023"
+  repo-branch: main
+  repo-url: "https://github.com/r-borgess/tutorial_nbdev"
